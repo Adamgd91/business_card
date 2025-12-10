@@ -19,7 +19,19 @@
 }
 
 .bio {
-  display: flex;
-
+  /* display: flex; */
+  text-align: left;
   font-size: 10px;
+  border: 1px solid rgb(47, 0, 255);
+  padding-left: 20px;
+  height: 200px;
+}
+
+.inside {
+  display: flex;
+  justify-content: center;
+}
+
+.left-side {
+  border: 1px solid red;
 }
