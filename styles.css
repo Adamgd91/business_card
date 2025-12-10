@@ -28,6 +28,11 @@
   height: 200px;
 }
 
+.skills {
+  margin-top: 10px;
+  list-style: none;
+}
+
 .inside {
   display: flex;
   justify-content: center;
