@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: rgba(38, 39, 39, 0.144);
+}
 
 .b-card {
   /* border: 1px solid rgba(0, 0, 0, 0.267); */
