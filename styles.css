@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.b-card {
+  /* display: flex;
+  justify-content: center; */
+  border: 1px solid black;
+  height: 200px;
+  width: 400px;
+  margin: 200px auto;
+}
+
+.portrit {
+  border-radius: 50%;
+  height: 100px;
+}
+
+.bio {
+  display: flex;
+
+  font-size: 10px;
+}
