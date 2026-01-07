@@ -17,25 +17,6 @@ body {
   background-color: #c5c5bd;
 }
 
-.portrit {
-  border-radius: 50%;
-  height: 100px;
-  margin-top: 5px;
-}
-
-.bio {
-  text-align: left;
-  font-size: 10px;
-  /* border: 1px solid rgb(47, 0, 255); */
-  padding: 10px 0 0 20px;
-  height: 200px;
-}
-
-.skills {
-  margin-top: 10px;
-  list-style: none;
-}
-
 .inside {
   display: flex;
   justify-content: center;
@@ -46,4 +27,22 @@ body {
   text-align: center;
   padding-right: 7px;
   border-right: 1px solid rgba(71, 70, 70, 0.226);
+}
+
+.portrit {
+  border-radius: 50%;
+  height: 100px;
+  margin-top: 5px;
+}
+
+.bio {
+  text-align: left;
+  font-size: 10px;
+  padding: 10px 0 0 20px;
+  height: 200px;
+}
+
+.skills {
+  margin-top: 10px;
+  list-style: none;
 }
