@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: rgba(38, 39, 39, 0.144);
+  background-color: rgba(7, 43, 43, 0.541);
 }
 
 .b-card {
@@ -14,7 +14,7 @@ body {
   margin: 200px auto;
   border-radius: 12px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-  background-color: rgb(230, 230, 230);
+  background-color: #c5c5bd;
 }
 
 .portrit {
